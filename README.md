@@ -2,4 +2,4 @@
 
 ## Projeto fork do exercício proposto durante o curso Gama Experience em Julho de 2020
 
-![Screenshot](fake-img.jpg)
+![Screenshot](fake-img.png)
